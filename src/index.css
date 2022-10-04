@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  max-width: 1440px;
+  background-color: #FFFFFF;
+  font-family: 'Popins', sans-serif;
+}
+
+.bgColor{
+  background-color: #06272F;
+}
