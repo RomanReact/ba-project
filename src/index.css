@@ -7,9 +7,215 @@
 body{
   max-width: 1440px;
   background-color: #FFFFFF;
-  font-family: 'Popins', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  color: #00222B;
+  font-size: 16px;
+  margin: 0 auto;
+  padding: 0 10rem;
 }
 
-.bgColor{
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+li{
+  list-style: none;
+}
+
+h1{
+  font-size: 6em;
+  font-weight: 500;
+}
+
+h2{
+  font-size: 4em;
+  font-weight: 600;
+  line-height: 140%;
+}
+
+h3{
+  font-size: 3em;
+  font-weight: 600;
+}
+
+h4{
+  font-size: 2em;
+  font-weight: 600;
+  line-height: 3rem;
+}
+
+.bg-color{
   background-color: #06272F;
+}
+
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
+
+.header-info{
+  display: flex;
+  gap: 40px;
+}
+
+.btn-primary{
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 180%;
+  letter-spacing: -0.01em;
+  background: rgba(0, 34, 43, 0.02);
+  border: 1px solid #00222B;
+  border-radius: 100px;
+  padding: 12px 32px;
+}
+
+.mobile-menu:hover{
+  cursor: pointer;
+}
+
+/* main */
+.main-screen{
+  padding-top: 7.75rem;
+  position: relative;
+  z-index: 99;
+}
+.main-screen:before{
+  content: url("./assets/image/Ellipse-1.png");
+  position: absolute;
+  top: 10.75rem;
+  left: -10rem;
+  z-index: -99;
+}
+.main-info{
+  max-width: 700px;
+}
+
+.main-info p{
+  max-width: 684px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.5rem;
+  margin: 3rem 0 1.5rem 0;
+}
+.main-info span{
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 2rem;
+}
+
+.macbook-block{
+  margin-top: 6rem;
+}
+
+.overview-block{
+  margin-top: 12.25rem;
+  display: flex;
+  gap: 23rem;
+  position: relative;
+}
+.overview-block:before{
+  content: url("./assets/image/Vector-1.png");
+  position: absolute;
+  top: 12rem;
+  left: -12rem;
+  z-index: -99;
+}
+
+.overview-info{
+  display: flex;
+  flex-direction: column;
+  gap: 6rem;
+}
+.overview-info h4{
+  margin-bottom: 1.5rem;
+}
+.overview-info p{
+  font-size: 1.25rem;
+  line-height: 2rem;
+}
+.overview-info ul{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.overview-info li{
+  display: inline-block;
+  background: #F7FAFB;
+  outline: 1px solid rgba(0, 34, 43, 0.08);
+  border-radius: 8px;
+  padding: 8px 24px 10px 24px;
+}
+
+@media only screen and (max-width: 360px) {
+  body{
+    padding: 0 1rem;
+  }
+  h1{
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+  h2{
+    font-size: 2.25rem;
+    line-height: 3rem;
+  }
+  h4{
+    font-size: 1.5rem;
+    line-height: 3rem;
+  }
+  .header-info .btn-primary{
+    display: none;
+  }
+  .main-screen{
+    padding-top: 2rem;
+  }
+  .main-info p{
+    font-size: 1.25rem;
+    line-height: 2rem;
+    margin: 1.5rem 0 1rem 0;
+  }
+  .main-info span{
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  .macbook-block{
+    margin-top: 4rem;
+  }
+  .macbook-block img{
+    max-width: 344px;
+    margin-left: -1rem;
+  }
+  .main-screen:before{
+    background-image: url('./assets/image/Ellipse-1.png');
+    background-size: 360px 284px;
+    top: 29rem;
+    left: -1.75rem;
+    width: 360px;
+    height: 284px;
+    content: '';
+  }
+  .overview-block{
+    margin-top: 6rem;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  .overview-info{
+    gap: 3rem;
+  }
+  .overview-info h4{
+    margin-bottom: 1rem;
+  }
+  .overview-info li{
+    padding: 8px 16px 10px 16px;
+  }
+  .overview-info li.desktop{
+    display: none;
+  }
+  .overview-block:before{
+    display: none;
+  }
+
 }
