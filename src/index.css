@@ -185,7 +185,7 @@ header{
     margin-top: 4rem;
   }
   .macbook-block img{
-    max-width: 344px;
+    max-width: 100%;
     margin-left: -1rem;
   }
   .main-screen:before{
