@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ba-project/static/css/main.05ee7ef4.css",
-    "main.js": "/ba-project/static/js/main.939b8470.js",
+    "main.js": "/ba-project/static/js/main.0b42b840.js",
     "static/media/Ellipse-1.png": "/ba-project/static/media/Ellipse-1.05e67757d8db2e54f66c.png",
     "static/media/MacbookAir(2022).png": "/ba-project/static/media/MacbookAir(2022).62c742a3fb4e8609117f.png",
     "static/media/Vector-1.png": "/ba-project/static/media/Vector-1.591cc1cb7a6805cbab06.png",
     "index.html": "/ba-project/index.html",
     "main.05ee7ef4.css.map": "/ba-project/static/css/main.05ee7ef4.css.map",
-    "main.939b8470.js.map": "/ba-project/static/js/main.939b8470.js.map"
+    "main.0b42b840.js.map": "/ba-project/static/js/main.0b42b840.js.map"
   },
   "entrypoints": [
     "static/css/main.05ee7ef4.css",
-    "static/js/main.939b8470.js"
+    "static/js/main.0b42b840.js"
   ]
 }
