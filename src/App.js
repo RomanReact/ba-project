@@ -25,7 +25,7 @@ function App() {
       <Routes>
         {/*<Route path="/" element={<Layout />}>*/}
         {/*<Route path="/" element={<Ayla />} />*/}
-        <Route path="/" element={<Home />} />
+        <Route path="/ba-project" element={<Home />} />
         <Route path="zeit" element={<Zeitview />} />
         <Route path="xyz" element={<Xyztrust />} />
         <Route path="cases" element={<Cases />} />
