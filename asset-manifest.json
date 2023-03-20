@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ba-project/static/css/main.1b8f126a.css",
-    "main.js": "/ba-project/static/js/main.794e3047.js",
+    "main.js": "/ba-project/static/js/main.d08d514c.js",
     "static/media/videoMainBg.mp4": "/ba-project/static/media/videoMainBg.a8a6a6a757fd54fa5643.mp4",
     "static/media/step3-img4.png": "/ba-project/static/media/step3-img4.afa7925ca8b20a2e846f.png",
     "static/media/img-12.png": "/ba-project/static/media/img-12.53f7b9adeef0f2dfd640.png",
@@ -41,6 +41,7 @@
     "static/media/img-step1.png": "/ba-project/static/media/img-step1.16a873773062d13e1d6c.png",
     "static/media/img11.png": "/ba-project/static/media/img11.ac812ce91b3c7d37eac3.png",
     "static/media/img2.png": "/ba-project/static/media/img2.f98c2be5f854289d874c.png",
+    "static/media/semicircle.png": "/ba-project/static/media/semicircle.d73d2ad25dab155c0912.png",
     "static/media/img12.png": "/ba-project/static/media/img12.76f7ce6e911f4265d3f7.png",
     "static/media/screen-phone9.png": "/ba-project/static/media/screen-phone9.72dc8dbebab87ccb3c26.png",
     "static/media/step3-img7.png": "/ba-project/static/media/step3-img7.9de7b2886952c90ec570.png",
@@ -94,10 +95,10 @@
     "static/media/slick.woff": "/ba-project/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ba-project/index.html",
     "main.1b8f126a.css.map": "/ba-project/static/css/main.1b8f126a.css.map",
-    "main.794e3047.js.map": "/ba-project/static/js/main.794e3047.js.map"
+    "main.d08d514c.js.map": "/ba-project/static/js/main.d08d514c.js.map"
   },
   "entrypoints": [
     "static/css/main.1b8f126a.css",
-    "static/js/main.794e3047.js"
+    "static/js/main.d08d514c.js"
   ]
 }
