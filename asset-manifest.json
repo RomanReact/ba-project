@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ba-project/static/css/main.49dc2e8c.css",
-    "main.js": "/ba-project/static/js/main.e2dd7e72.js",
+    "main.css": "/ba-project/static/css/main.2d27d288.css",
+    "main.js": "/ba-project/static/js/main.502fee93.js",
     "static/media/videoMainBg.mp4": "/ba-project/static/media/videoMainBg.a8a6a6a757fd54fa5643.mp4",
     "static/media/step3-img4.png": "/ba-project/static/media/step3-img4.afa7925ca8b20a2e846f.png",
     "static/media/img-12.png": "/ba-project/static/media/img-12.53f7b9adeef0f2dfd640.png",
@@ -39,6 +39,7 @@
     "static/media/step3-img10.png": "/ba-project/static/media/step3-img10.62ea14783fd5f3d36b3b.png",
     "static/media/img6.png": "/ba-project/static/media/img6.cdb33fd3ee1c44c4e1e9.png",
     "static/media/img3.png": "/ba-project/static/media/img3.6eae82a1617cc595c84f.png",
+    "static/media/top-half-icon.png": "/ba-project/static/media/top-half-icon.5b555229c88841c5359b.png",
     "static/media/img-step1.png": "/ba-project/static/media/img-step1.16a873773062d13e1d6c.png",
     "static/media/img11.png": "/ba-project/static/media/img11.ac812ce91b3c7d37eac3.png",
     "static/media/img2.png": "/ba-project/static/media/img2.f98c2be5f854289d874c.png",
@@ -97,15 +98,16 @@
     "static/media/logo-3.svg": "/ba-project/static/media/logo-3.02f29fec2ae507077bf0f35b3ae371b8.svg",
     "static/media/slick.svg": "/ba-project/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/ba-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/logoIcon.svg": "/ba-project/static/media/logoIcon.63b7ae67ae3ed07d6b06301eef3e012d.svg",
     "static/media/slick.ttf": "/ba-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/ba-project/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ba-project/index.html",
     "static/media/arrowDown.svg": "/ba-project/static/media/arrowDown.01f714398c37f6cb402a787a5acb4967.svg",
-    "main.49dc2e8c.css.map": "/ba-project/static/css/main.49dc2e8c.css.map",
-    "main.e2dd7e72.js.map": "/ba-project/static/js/main.e2dd7e72.js.map"
+    "main.2d27d288.css.map": "/ba-project/static/css/main.2d27d288.css.map",
+    "main.502fee93.js.map": "/ba-project/static/js/main.502fee93.js.map"
   },
   "entrypoints": [
-    "static/css/main.49dc2e8c.css",
-    "static/js/main.e2dd7e72.js"
+    "static/css/main.2d27d288.css",
+    "static/js/main.502fee93.js"
   ]
 }
