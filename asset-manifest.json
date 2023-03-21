@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ba-project/static/css/main.57f1e91a.css",
-    "main.js": "/ba-project/static/js/main.3a39c259.js",
+    "main.css": "/ba-project/static/css/main.af5cb0d4.css",
+    "main.js": "/ba-project/static/js/main.085ce0a2.js",
     "static/media/videoMainBg.mp4": "/ba-project/static/media/videoMainBg.a8a6a6a757fd54fa5643.mp4",
     "static/media/step3-img4.png": "/ba-project/static/media/step3-img4.afa7925ca8b20a2e846f.png",
     "static/media/img-12.png": "/ba-project/static/media/img-12.53f7b9adeef0f2dfd640.png",
@@ -106,11 +106,11 @@
     "static/media/arrowDown.svg": "/ba-project/static/media/arrowDown.01f714398c37f6cb402a787a5acb4967.svg",
     "static/media/gradient_overlay.svg": "/ba-project/static/media/gradient_overlay.279e699f930fb0974878e0b53299e28e.svg",
     "static/media/ico_menu.svg": "/ba-project/static/media/ico_menu.472f84507c091df140ff25d0fcae8662.svg",
-    "main.57f1e91a.css.map": "/ba-project/static/css/main.57f1e91a.css.map",
-    "main.3a39c259.js.map": "/ba-project/static/js/main.3a39c259.js.map"
+    "main.af5cb0d4.css.map": "/ba-project/static/css/main.af5cb0d4.css.map",
+    "main.085ce0a2.js.map": "/ba-project/static/js/main.085ce0a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.57f1e91a.css",
-    "static/js/main.3a39c259.js"
+    "static/css/main.af5cb0d4.css",
+    "static/js/main.085ce0a2.js"
   ]
 }
